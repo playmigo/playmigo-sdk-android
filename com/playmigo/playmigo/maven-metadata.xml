@@ -3,10 +3,11 @@
   <groupId>com.playmigo</groupId>
   <artifactId>playmigo</artifactId>
   <versioning>
-    <release>1.0.0</release>
+    <release>1.0.0-DefaultReceiversEnabled</release>
     <versions>
       <version>1.0.0</version>
+      <version>1.0.0-DefaultReceiversEnabled</version>
     </versions>
-    <lastUpdated>20170518101719</lastUpdated>
+    <lastUpdated>20170518102400</lastUpdated>
   </versioning>
 </metadata>
